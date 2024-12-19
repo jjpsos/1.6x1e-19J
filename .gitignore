@@ -1,4 +1,4 @@
-/assets
+/assets/htmx.js
 /target
 /src/settings.rs
 .env
